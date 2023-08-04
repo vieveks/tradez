@@ -1,0 +1,2 @@
+# tradez
+trading platform
